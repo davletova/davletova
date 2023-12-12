@@ -1,6 +1,9 @@
 С 2023 занимаюсь iOS разработкой
 
 В данный момент работаю над проектом [fakeNFT](https://github.com/davletova/fakeNFT)
+\
+Планы по разработке [здесь](https://github.com/davletova/fakeNFT#roadmap)
+
 
 В рамках обучения iOS разработке мною были реализованы проекты
 - [Tracker](https://github.com/davletova/Tracker)
