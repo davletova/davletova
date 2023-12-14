@@ -1,5 +1,15 @@
-С 2023 занимаюсь iOS разработкой
+iOS разработкой занимаюсь с 2023 
 
+### Навыки
+SwiftUI, UIKit (вёрстка кодом с Auto Layout и в сторибордах), Combine, UserDefaults, Keychain, CoreData; Паттерны проектирования MVC, MVP, MVVM; SOLID, DRY, YAGNI, KISS
+\
+HTTP и REST, паджинация; Unit и UI тестирование;
+\
+Многопоточость: предотвращение race condition (DispatchQueue, блокировка UI)
+\
+Git, проведение code review.
+\
+\
 В данный момент работаю над проектом [fakeNFT](https://github.com/davletova/fakeNFT)
 \
 Планы по разработке [здесь](https://github.com/davletova/fakeNFT#roadmap)
