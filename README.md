@@ -3,7 +3,7 @@ iOS разработкой занимаюсь с 2023
 ### Навыки
 SwiftUI, UIKit (вёрстка кодом с Auto Layout и в сторибордах), Combine, UserDefaults, Keychain, CoreData; Паттерны проектирования MVC, MVP, MVVM; SOLID, DRY, YAGNI, KISS
 \
-HTTP и REST, паджинация; Unit и UI тестирование;
+Запросы к REST API, паджинация; Unit и UI тестирование;
 \
 Многопоточость: предотвращение race condition (DispatchQueue, блокировка UI)
 \
